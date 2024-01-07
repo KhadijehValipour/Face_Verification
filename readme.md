@@ -1,6 +1,8 @@
 # Face Verification
 ![!\[Alt text\](image.png)](assents/image.png)
 
+![!\[Alt text\](../face_verification.gif)](assents/face_verification.gif)
+
 In this project we have used [insightface](https://github.com/deepinsight/insightface/tree/master/python-package) package for face analysis task.
 
 ## How to install
